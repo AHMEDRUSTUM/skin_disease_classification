@@ -1,16 +1,33 @@
-# test3
+# 🩺 Cilt Hastalığı Tanı ve Öneri Uygulaması
 
-A new Flutter project.
+Flutter ile geliştirilmiş bir mobil uygulamadır. Kullanıcılar, cilt hastalıklarını kamera veya galeriden yükledikleri fotoğraflar üzerinden analiz ettirip, yapay zekâ destekli sistemden tahmin ve öneri alabilirler.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Proje Hakkında
 
-A few resources to get you started if this is your first Flutter project:
+Bu mobil uygulama:
+- Cilt hastalıklarını tespit etmek için **makine öğrenmesi** modelleri kullanır.
+- Kullanıcı kimlik doğrulamasında **Firebase Authentication** altyapısından yararlanır.
+- Fotoğraf yüklemek için **kamera ve galeri entegrasyonu** içerir.
+- Kullanıcı profili yönetimi ve öneri sistemi barındırır.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Özellikler
+
+- 📸 Kamera veya galeriden fotoğraf yükleyerek cilt hastalığı tahmini
+- 🔐 Firebase ile kullanıcı kaydı ve girişi
+- 🧠 Görüntü işleme & makine öğrenmesi tabanlı analiz
+- 📋 Hastalık ve özel öneri ekranı
+- 👤 Profil düzenleme ve kullanıcı bilgileri yönetimi
+- 🎨 Modern ve kullanıcı dostu Flutter arayüzü
+
+---
+## 📸 Ekran Görüntüleri
+![Ana Sayfa](assets/screenshots/home.png)
+![Tahmin Ekranı](assets/screenshots/prediction.png)
+![Profil](assets/screenshots/profile.png)
+
+
+
