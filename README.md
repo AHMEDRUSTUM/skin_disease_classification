@@ -28,10 +28,10 @@ Bu mobil uygulama:
 ![register](proje/register.jpg)
 ![login](proje/login.jpg)
 ![home](proje/home.jpg)
-![foto](fotocek2.jpg)
+![foto](proje/fotocek2.jpg)
 ![saglikli](proje/saglikli.jpg)
-![foto](fotocek.jpg)
-![hasta](hasta.jpg)
+![foto](proje/fotocek.jpg)
+![hasta](proje/hasta.jpg)
 
 
 
