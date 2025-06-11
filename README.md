@@ -25,9 +25,14 @@ Bu mobil uygulama:
 
 ---
 ## 📸 Ekran Görüntüleri
-![Ana Sayfa](assets/screenshots/home.png)
-![Tahmin Ekranı](assets/screenshots/prediction.png)
-![Profil](assets/screenshots/profile.png)
+![register](proje/register.jpg)
+![login](proje/login.jpg)
+![home](proje/home.jpg)
+![foto](fotocek2.jpg)
+![saglikli](proje/saglikli.jpg)
+![foto](fotocek.jpg)
+![hasta](hasta.jpg)
+
 
 
 
